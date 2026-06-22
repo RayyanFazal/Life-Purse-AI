@@ -5,3 +5,5 @@ Developed an AI-powered cardiac assessment system that predicts Left Ventricular
 Technologies
 
 Python, TensorFlow, Keras, MobileNetV2, Optuna, TensorFlow Lite, Flutter, Deep Learning, Computer Vision, Medical AI
+Usecase Screenshot 
+<img width="1080" height="1827" alt="WhatsApp Image 2026-06-22 at 8 29 45 PM" src="https://github.com/user-attachments/assets/d104f491-ed0e-471f-b9ea-9c00612d0700" />
